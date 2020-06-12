@@ -1,6 +1,6 @@
 # Function Approximation and Control
 
-Assignment 3. In this notebook we will:
+Assignment 3. In this assignment we will:
 
 - Use function approximation in the control setting
 - Implement the Sarsa algorithm using tile coding
