@@ -6,9 +6,15 @@ Assignment 3. In this assignment we will:
 - Implement the Sarsa algorithm using tile coding
 - Compare three settings for tile coding to see their effect on our agent
 
+## Pseudocode
+
+![](episodic_semi_gradient_sarsa_for_q.png)
+
+Pseudocode from Sutton & Barto Reinforcement Learning an Introduction page 244.
+
 ## Control Task
 
-As the control task for this assignment we will use the Mountain Car Task introduced in [Section 10.1 of the textbook](http://www.incompleteideas.net/book/RLbook2018.pdf#page=267)
+As the control task for this assignment we will use the Mountain Car Task introduced in [Section 10.1 of Sutton & Barto Reinforcement Learning an Introduction](http://www.incompleteideas.net/book/RLbook2018.pdf#page=267).
 
 ![](mountaincar.png)
 
