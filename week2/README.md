@@ -1,4 +1,4 @@
-## Semi-gradient TD with a Neural Network
+## Semi-gradient TD(0) with a Neural Network
 
 w you will implement **semi-gradient TD with a simple Neural Network** and use it for the same policy evaluation problem.
 
