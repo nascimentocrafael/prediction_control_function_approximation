@@ -10,7 +10,7 @@ Assignment 1. In this assignment we will:
 
 ## Pseudocode
 
-![](data\semi_gradient_td0_for_v.png)
+![](data/semi_gradient_td0_for_v.png)
 
 Pseudocode from Sutton & Barto Reinforcement Learning an Introduction page 203.
 
@@ -18,7 +18,7 @@ Pseudocode from Sutton & Barto Reinforcement Learning an Introduction page 203.
 
 We will implement and use a smaller 500 state version of the problem we covered in lecture (see "State Aggregation with Monte Carlo”, and Example 9.1 in [Sutton & Barto Reinforcement Learning an Introduction](http://www.incompleteideas.net/book/RLbook2018.pdf#page=225)). The diagram below illustrates the problem.
 
-![](data\randomwalk_diagram.png)
+![](data/randomwalk_diagram.png)
 
 There are 500 states numbered from 1 to 500, left to right, and all episodes begin with the agent located at the center, in state 250. For simplicity, we will consider state 0 and state 501 as the left and right terminal states respectively.
 
